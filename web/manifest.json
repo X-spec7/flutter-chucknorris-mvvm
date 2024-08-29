@@ -1,6 +1,6 @@
 {
-    "name": "mvvm",
-    "short_name": "mvvm",
+    "name": "chuck_norris_io",
+    "short_name": "chuck_norris_io",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
